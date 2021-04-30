@@ -1,5 +1,6 @@
+package org.sotorrent.stint;
+
 import org.junit.jupiter.api.Test;
-import org.sotorrent.stint.Event;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
