@@ -1,6 +1,8 @@
 # so-internal-refs
 Scripts used to import and analyze internal web server logs provided by Stack Overflow under an NDA.
 
+[![logo](doc/stint-logo_small.png "sting logo")](doc/stint-logo.png)
+
 ## Execution
 
 To extract navigation sequences from the event log, run:
